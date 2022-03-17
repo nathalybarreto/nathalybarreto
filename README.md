@@ -1,6 +1,6 @@
 ## Olá, eu sou a Nathaly Barreto!
 
-- 🌱 Atualmente estou aprendendo Front-End
+- 🌱 Futura Desenvolvedora Front-End
 
 <div align="center">
   <a href="https://github.com/nathalybarreto">
